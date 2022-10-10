@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: defe3947b6472314da564572ac17a1cd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SnowSlimeEnemy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -15}
+        - {x: -9, y: -4}
+        - {x: 9, y: -4}
+        - {x: 9, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b462d2aecb4424d8e2a79389af90b0
+      internalID: 2121057338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowSlimeEnemy_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 90
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -15}
+        - {x: -9, y: -4}
+        - {x: 9, y: -4}
+        - {x: 9, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8b55b9a88593e489c0b6c291cccbe4
+      internalID: -2131550575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowSlimeEnemy_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 90
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -15}
+        - {x: -9, y: -4}
+        - {x: 9, y: -4}
+        - {x: 9, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef5656cdf0548e40bf0f2c74fe3c35e
+      internalID: 1587636966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowSlimeEnemy_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -15}
+        - {x: -9, y: -4}
+        - {x: 9, y: -4}
+        - {x: 9, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fa159537a4fa74699e7a48a0504654
+      internalID: 2132812281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowSlimeEnemy_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -15}
+        - {x: -9, y: -4}
+        - {x: 9, y: -4}
+        - {x: 9, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8d9df7689d53d4fa4f3d3e8ed10048
+      internalID: 1934650195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowSlimeEnemy_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -15}
+        - {x: -9, y: -4}
+        - {x: 9, y: -4}
+        - {x: 9, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ac25e5a52e48247a100e2097ff5371
+      internalID: 1180089629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowSlimeEnemy_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -15}
+        - {x: -9, y: -4}
+        - {x: 9, y: -4}
+        - {x: 9, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a03a2055979e854d88c1a49cf469eac
+      internalID: -898464452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowSlimeEnemy_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 30
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -15}
+        - {x: -9, y: -4}
+        - {x: 9, y: -4}
+        - {x: 9, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2338fb8e049a0640a510e537c0a58b5
+      internalID: -696270866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowSlimeEnemy_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 30
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -15}
+        - {x: -9, y: -4}
+        - {x: 9, y: -4}
+        - {x: 9, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccb23c26892f594b9031f202475324c
+      internalID: 1389969463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowSlimeEnemy_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -15}
+        - {x: -9, y: -4}
+        - {x: 9, y: -4}
+        - {x: 9, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a11c7c68ffb9d499cc89b29e39c67d
+      internalID: -597086583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnowSlimeEnemy_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -15}
+        - {x: -9, y: -4}
+        - {x: 9, y: -4}
+        - {x: 9, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5809fb78edc89ec4c8edbd766e96b44f
+      internalID: -1118322699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SnowSlimeEnemy_9: -597086583
+      SnowSlimeEnemy_5: 1180089629
+      SnowSlimeEnemy_6: -898464452
+      SnowSlimeEnemy_8: 1389969463
+      SnowSlimeEnemy_3: 2132812281
+      SnowSlimeEnemy_4: 1934650195
+      SnowSlimeEnemy_10: -1118322699
+      SnowSlimeEnemy_0: 2121057338
+      SnowSlimeEnemy_1: -2131550575
+      SnowSlimeEnemy_2: 1587636966
+      SnowSlimeEnemy_7: -696270866
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
